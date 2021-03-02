@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animalFinder", "animalFinder\animalFinder.csproj", "{97DF0355-326B-475F-8DC9-08ECA4D1DBF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{2E617DCC-5E10-4FF3-9B34-C229946FF8EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97DF0355-326B-475F-8DC9-08ECA4D1DBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DF0355-326B-475F-8DC9-08ECA4D1DBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DF0355-326B-475F-8DC9-08ECA4D1DBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DF0355-326B-475F-8DC9-08ECA4D1DBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E617DCC-5E10-4FF3-9B34-C229946FF8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E617DCC-5E10-4FF3-9B34-C229946FF8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E617DCC-5E10-4FF3-9B34-C229946FF8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E617DCC-5E10-4FF3-9B34-C229946FF8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B86AE725-F89A-4070-A8C6-9B61E9736721}
+	EndGlobalSection
+EndGlobal
